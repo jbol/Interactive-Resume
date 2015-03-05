@@ -1,0 +1,24 @@
+{
+  "name": "p2 final",
+  "version": "0.0.0",
+  "keywords": [
+    "Portfolio",
+    "John",
+    "Bolorinos",
+    "Udacity"
+  ],
+  "authors": [
+    "John Bolorinos"
+  ],
+  "license": "MIT",
+  "homepage": "www.jkbolorinos.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.4"
+  }
+}
